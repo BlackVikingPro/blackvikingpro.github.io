@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/blackvikingpro
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://blackvikingpro.github.io
+  * I am blackvikingpro (https://keybase.io/blackvikingpro) on keybase.
+  * I have a public key ASBaW0grtLmPqk9hKpKHXwsxcI0vhZrnP3iZ08XcCM5hmAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205a5b482bb4b98faa4f612a92875f0b31708d2f859ae73f7899d3c5dc08ce61980a",
+      "host": "keybase.io",
+      "kid": "01205a5b482bb4b98faa4f612a92875f0b31708d2f859ae73f7899d3c5dc08ce61980a",
+      "uid": "bc24f34e7bd02aa127e6f87ecd1a7a19",
+      "username": "blackvikingpro"
+    },
+    "merkle_root": {
+      "ctime": 1513791203,
+      "hash": "c5af3f929afcfca97f4b1f478e36d17fe17e0219ac82f13901d8aabb71f880534b8bf54c4bfed269fc42873fd87b7f156dffc197422d7e83b9ac2af76d591e9d",
+      "hash_meta": "58a47ada169ffe4f866f2c673b2923b64acc94b85a974e8b216e4470260ef0c4",
+      "seqno": 1841618
+    },
+    "service": {
+      "hostname": "blackvikingpro.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.37"
+  },
+  "ctime": 1513791232,
+  "expire_in": 504576000,
+  "prev": "8679cd7ef79bf5e2fbd8f7f591f849ad40352730012cbe1e6a0ffc0cb5f501ac",
+  "seqno": 61,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgWltIK7S5j6pPYSqSh18LMXCNL4Wa5z94mdPF3AjOYZgKp3BheWxvYWTFA1d7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNWE1YjQ4MmJiNGI5OGZhYTRmNjEyYTkyODc1ZjBiMzE3MDhkMmY4NTlhZTczZjc4OTlkM2M1ZGMwOGNlNjE5ODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNWE1YjQ4MmJiNGI5OGZhYTRmNjEyYTkyODc1ZjBiMzE3MDhkMmY4NTlhZTczZjc4OTlkM2M1ZGMwOGNlNjE5ODBhIiwidWlkIjoiYmMyNGYzNGU3YmQwMmFhMTI3ZTZmODdlY2QxYTdhMTkiLCJ1c2VybmFtZSI6ImJsYWNrdmlraW5ncHJvIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTEzNzkxMjAzLCJoYXNoIjoiYzVhZjNmOTI5YWZjZmNhOTdmNGIxZjQ3OGUzNmQxN2ZlMTdlMDIxOWFjODJmMTM5MDFkOGFhYmI3MWY4ODA1MzRiOGJmNTRjNGJmZWQyNjlmYzQyODczZmQ4N2I3ZjE1NmRmZmMxOTc0MjJkN2U4M2I5YWMyYWY3NmQ1OTFlOWQiLCJoYXNoX21ldGEiOiI1OGE0N2FkYTE2OWZmZTRmODY2ZjJjNjczYjI5MjNiNjRhY2M5NGI4NWE5NzRlOGIyMTZlNDQ3MDI2MGVmMGM0Iiwic2Vxbm8iOjE4NDE2MTh9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiYmxhY2t2aWtpbmdwcm8uZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzcifSwiY3RpbWUiOjE1MTM3OTEyMzIsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiODY3OWNkN2VmNzliZjVlMmZiZDhmN2Y1OTFmODQ5YWQ0MDM1MjczMDAxMmNiZTFlNmEwZmZjMGNiNWY1MDFhYyIsInNlcW5vIjo2MSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAj6S3tqbJQC2iiZ8JbWUd/N7hVCq5oEqQ6t8SW/Q2EQlTPfh4WCXJbVllKpVUPNleED+s06WFHGlVwtfFOu4kNqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQg8pPNzvIR5rfQY49zRi19I8JHIyQTxVETo2+aOjE5Mv+jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/blackvikingpro
+
+==================================================================
